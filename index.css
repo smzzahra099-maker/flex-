@@ -1,5 +1,5 @@
   body{
-            background-color: rgb(171, 171, 197);
+            background-color: rgb(253, 253, 255);
         }
         *{
             box-sizing: border-box;
@@ -10,6 +10,10 @@
             justify-content: space-evenly;
             align-items: center;
             background-color: rgb(97, 97, 119);
+            border-radius: 15px;
+        }
+       button{
+            border-radius: 8px;
         }
         ul{
             list-style: none;
@@ -235,7 +239,7 @@
             background-color: rgb(174, 192, 208);
             padding: 10px;
             transition: all 5s ease 250ms ;
-            
+             border-radius: 10px;
         }
         .texh{
             text-align: center;
