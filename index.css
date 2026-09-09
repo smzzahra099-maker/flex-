@@ -27,6 +27,9 @@
             height:auto;
             margin: 0;
         }
+        .notice{
+            color: #ffffff;
+        }
         @media(max-width:1300px)and (min-width:769px){
             .item img{
                 width: 80%;
